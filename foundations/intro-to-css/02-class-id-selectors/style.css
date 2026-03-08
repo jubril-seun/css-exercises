@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.text-class {
+    background-color: pink;
+    font-family: Verdana;
+}
+
+#id-class1 {
+    color: blue;
+    font-size: 36px;
+}
+
+.text-class2 {
+    font-size: 24px;
+}
+
+#id-class2 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
